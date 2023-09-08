@@ -1,5 +1,10 @@
 # timer-reaction-game
 
+## Install vue
+```
+npm install vue
+```
+
 ## Project setup
 ```
 npm install
